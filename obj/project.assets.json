@@ -2051,11 +2051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alperenkeskin/Desktop/anketdeneme/anketdeneme.csproj",
+      "projectUniqueName": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/anketdeneme.csproj",
       "projectName": "anketdeneme",
-      "projectPath": "/Users/alperenkeskin/Desktop/anketdeneme/anketdeneme.csproj",
+      "projectPath": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/anketdeneme.csproj",
       "packagesPath": "/Users/alperenkeskin/.nuget/packages/",
-      "outputPath": "/Users/alperenkeskin/Desktop/anketdeneme/obj/",
+      "outputPath": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alperenkeskin/.nuget/NuGet/NuGet.Config"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VmZzLbBwsUnHaCOGWbym7+igyWU4wNjFJ1SdgjyCZh0=",
+  "Hash": "BHkcZFe+yI17eLARe1fxeLUK5FoyAEJcf4VyZORcgXM=",
   "Source": "anketdeneme",
   "BasePath": "_content/anketdeneme",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "anketdeneme/wwwroot",
       "Source": "anketdeneme",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/obj/Debug/net7.0/scopedcss/bundle/anketdeneme.styles.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/Debug/net7.0/scopedcss/bundle/anketdeneme.styles.css",
       "SourceId": "anketdeneme",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "anketdeneme.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/alperenkeskin/Desktop/anketdeneme/obj/Debug/net7.0/scopedcss/bundle/anketdeneme.styles.css"
+      "OriginalItemSpec": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/Debug/net7.0/scopedcss/bundle/anketdeneme.styles.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/obj/Debug/net7.0/scopedcss/projectbundle/anketdeneme.bundle.scp.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/Debug/net7.0/scopedcss/projectbundle/anketdeneme.bundle.scp.css",
       "SourceId": "anketdeneme",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "anketdeneme.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/alperenkeskin/Desktop/anketdeneme/obj/Debug/net7.0/scopedcss/projectbundle/anketdeneme.bundle.scp.css"
+      "OriginalItemSpec": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/obj/Debug/net7.0/scopedcss/projectbundle/anketdeneme.bundle.scp.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/.DS_Store",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/.DS_Store",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/css/site.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/css/site.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/favicon.ico",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/favicon.ico",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/img/.DS_Store",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/img/.DS_Store",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "img/.DS_Store",
       "AssetKind": "All",
@@ -119,27 +119,10 @@
       "OriginalItemSpec": "wwwroot/img/.DS_Store"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/img/exen.jpeg",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/js/site.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
-      "BasePath": "_content/anketdeneme",
-      "RelativePath": "img/exen.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exen.jpeg"
-    },
-    {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/js/site.js",
-      "SourceId": "anketdeneme",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -238,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -255,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -272,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -289,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -306,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -323,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -340,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -357,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -374,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -391,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -408,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -425,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -442,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -459,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -476,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -493,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -510,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -578,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -595,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -612,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -629,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -646,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -714,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -731,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -748,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -765,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -782,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -799,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -816,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -833,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -867,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -884,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -901,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -918,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -935,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -952,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -969,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -986,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1003,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1020,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1037,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1054,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1071,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1088,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1105,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "anketdeneme",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/alperenkeskin/Desktop/anketdeneme/wwwroot/",
+      "ContentRoot": "/Users/alperenkeskin/Desktop/SimpleSurveyApplication/wwwroot/",
       "BasePath": "_content/anketdeneme",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
