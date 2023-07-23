@@ -4,12 +4,14 @@ This is a simple survey application developed using ASP.NET Core.
 
 ## Features
 
-- Create new surveys with multiple questions and choices
-- Users can participate in the surveys and choose their answers
-- Survey answers can only be viewed by the admin.
+-Users can create requests by providing their names, email addresses, and request details.
+-The created requests are displayed in a list format on the main page.
+-Admin users can manage the requests (approve, reject, delete).
+
 
 ## Requirements
 
+   > .NET 6 SDK
    > FluentValidation                             11.6.0      11.6.0  
    > Microsoft.EntityFrameworkCore                6.0.0       6.0.0   
    > Microsoft.EntityFrameworkCore.Design         6.0.0       6.0.0   
@@ -19,10 +21,10 @@ This is a simple survey application developed using ASP.NET Core.
 ## Getting Started
 
 1. Clone the repository:
-  git clone https://github.com/your-username/simple-survey-app.git
+  git clone https://github.com/alpereenkeskin/https://github.com/alpereenkeskin/SimpleSurveyApplication
 
 2.Navigate to the project directory:
-  cd simple-survey-app
+  cd anketdeneme
 
 3.Restore NuGet packages:
   dotnet restore
