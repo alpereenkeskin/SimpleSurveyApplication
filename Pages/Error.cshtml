@@ -1,0 +1,16 @@
+﻿@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Hata</h1>
+@if (Model.ShowRequestId)
+{
+    <p>
+    <strong>Request ID:</strong> <code>@Model.RequestId</code>
+</p>
+}
+
+<h3>Üzgünüm.</h3>
+<p>Sayfa bulunamadı.</p>

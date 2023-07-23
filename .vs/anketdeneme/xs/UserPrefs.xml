@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{281F6E86-3990-493D-8287-707448D0F1DC}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.anketdeneme PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/RepoDbContext.cs">
+    <Files>
+      <File FileName="Models/AppRole.cs" Line="7" Column="22" />
+      <File FileName="Models/Users.cs" Line="4" Column="6" />
+      <File FileName="Models/UsersConfig.cs" Line="17" Column="1" />
+      <File FileName="Models/RepoDbContext.cs" Line="21" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="anketdeneme" expanded="True">
+            <Node name="anketdeneme" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

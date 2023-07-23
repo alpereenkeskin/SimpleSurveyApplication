@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = "_Layout";
+}
+<div class="container">
+    <h2>İşçi Memnuniyeti Anketi</h2>
+    <form method="post" asp-page="Index">
+        <div class="text-danger" asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label for="name">Adınız:</label>
+            <input type="text" class="form-control" name="Ad" placeholder="Adınızı girin">
+        </div>
+        <div class="form-group">
+            <label for="name">Soyadınız:</label>
+            <input type="text" class="form-control" name="Soyad" placeholder="Adınızı girin">
+        </div>
+        <div class="form-group">
+            <label for="name">Email:</label>
+            <input type="text" class="form-control" name="Email" placeholder="Adınızı girin">
+        </div>
+        <div class="form-group">
+            <label for="department">Departmanınız:</label>
+            <input type="text" class="form-control" name="Departman" placeholder="Departmanınızı girin">
+        </div>
+        <div class="form-group">
+            <label for="satisfaction">Memnuniyet derecesi:</label>
+            <select asp-items="@Model.Options" class="form-control" name="MemnuniyetID">
+                @*<option value="5">Çok memnunum</option>
+                <option value="4">Memnunum</option>
+                <option value="3">Nötrüm</option>
+                <option value="2">Memnun değilim</option>
+                <option value="1">Hiç memnun değilim</option>*@
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="comments">Şikayet / İstek / Dilek :</label>
+            <textarea class="form-control" name="MesajKutusu" rows="3"
+                placeholder="Ek yorumlarınızı buraya girin"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Anketi Gönder</button>
+    </form>
+    <div class="container">
+        <div class="row">
+            IP Adresiniz  = @ViewData["IpAddress"] <a class="text-danger">Cihaz bilgileriniz sistemde görünür. Anketlerin Ciddiyetle doldurulmasını rica ederiz.</a>
+        </div>
+    </div>
+</div>
+
+
