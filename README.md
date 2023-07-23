@@ -21,7 +21,7 @@ This is a simple survey application developed using ASP.NET Core.
 ## Getting Started
 
 1. Clone the repository:
-  git clone git@github.com:alpereenkeskin/SimpleSurveyApplication.git
+  gh repo clone alpereenkeskin/SimpleSurveyApplication
 
 2.Navigate to the project directory:
   cd anketdeneme
